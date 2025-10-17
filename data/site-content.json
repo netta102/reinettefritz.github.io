@@ -1,8 +1,10 @@
 {
   "personal": {
     "name": "Reinette Fritz",
-    "title": "Marketing Manager",
-    "tagline": "Driving digital growth through data, creativity, and strategy",
+    "title": "Marketing Coordinator & Digital Strategist",
+    "tagline": "Creating engaging marketing experiences through strategy, design, and data insights",
+    "location": "Hilton, KwaZulu-Natal, South Africa",
+    "phone": "068 282 8463",
     "email": "fritzreinette@gmail.com",
     "social": {
       "github": "https://github.com/netta102",
@@ -14,14 +16,14 @@
     "greeting": "Hi, I'm",
     "name": "Reinette Fritz",
     "typedRoles": [
-      "Marketing Manager",
-      "Digital Strategist",
-      "Brand Builder",
-      "Content Marketer"
+      "Marketing Coordinator",
+      "Digital Marketer",
+      "Event Strategist",
+      "Creative Designer"
     ],
     "description": [
-      "Marketing Manager with 7+ years of experience leading multi-channel campaigns, brand strategy, and client growth initiatives across digital platforms.",
-      "I've helped brands and agencies create measurable impact through data-driven storytelling, paid media optimization, and integrated marketing strategies that align creativity with business goals."
+      "Versatile marketing professional with expertise in digital campaigns, event coordination, and creative design. I combine data-driven insights with engaging storytelling to create measurable marketing impact.",
+      "Currently leading digital marketing initiatives at Love Howick while mastering graphic design. With a Psychology background and proven track record of driving growth (329% e-commerce increase, 25% SEO improvement, 22% social media growth), I'm passionate about understanding consumer behavior and creating authentic marketing experiences."
     ],
     "cta": {
       "primary": "About Me",
@@ -32,32 +34,33 @@
   },
   "about": {
     "pageTitle": "About Me",
-    "pageTagline": "Marketing Manager helping agencies and brands grow through smart strategy and creative execution",
+    "pageTagline": "Marketing professional passionate about strategy, creativity, and driving measurable results through authentic engagement",
     "sections": [
       {
         "title": "Who I Am",
         "content": [
-          "I'm Reinette Fritz, a digital marketing professional passionate about connecting people with brands through meaningful campaigns. Over the past seven years, I've led cross-functional teams, managed client accounts, and executed performance marketing strategies that drive engagement and ROI.",
-          "I enjoy translating data into stories that resonate, helping clients understand their audiences, and creating campaigns that turn attention into action."
+          "I'm Reinette Fritz, a marketing coordinator with a passion for creating engaging experiences that connect brands with their audiences. With a Psychology degree and hands-on experience across digital, traditional, and event marketing, I understand what drives consumer behavior and builds lasting relationships.",
+          "Currently leading digital marketing at Love Howick, managing multi-channel campaigns while developing my graphic design skills. I'm detail-oriented, strategic, and genuinely excited about solving marketing challenges through creativity and data."
         ]
       },
       {
         "title": "What I Do",
-        "intro": "I design and execute digital marketing strategies with a focus on:",
+        "intro": "I design and execute integrated marketing strategies across multiple channels:",
         "list": [
-          "Multi-channel campaign planning and management",
-          "Brand positioning and creative direction",
-          "SEO, PPC, and social media marketing",
-          "Email automation and CRM workflows",
-          "Analytics, reporting, and performance optimization",
-          "Team leadership and client relationship management"
+          "Digital Marketing: SEO, SEM, social media campaigns (Facebook, Instagram, TikTok), Google Ads",
+          "Event Coordination: Planning and executing major events (golf days, conferences, community expos)",
+          "Content Creation: Copywriting, design, and newsletters",
+          "Financial Management: Budgeting, cost analysis, and financial reporting",
+          "CRM & Analytics: Data management, performance tracking, and optimization",
+          "E-commerce & Website Management: Product listings, SEO optimization, online sales growth",
+          "Design & Creative: Layout design, presentations, and marketing materials (Canva, graphic design)"
         ]
       },
       {
         "title": "My Approach",
         "content": [
-          "I see marketing as the balance between creativity and analytics. Every campaign should tell a story while being guided by clear objectives and measurable outcomes.",
-          "I focus on collaboration, testing, and refinement — aligning strategy, content, and performance data to continuously improve results for clients and brands."
+          "I believe great marketing combines strategic thinking with creative execution. Every campaign should be grounded in consumer insights, measured by clear KPIs, and delivered with attention to detail.",
+          "I'm bilingual (English & Afrikaans), highly organized, and thrive in fast-paced environments where I can wear multiple hats. I love collaborating across teams, learning new tools, and continuously optimizing for results."
         ]
       }
     ],
@@ -65,45 +68,60 @@
       "skills": {
         "title": "Skills & Tools",
         "tags": [
-          "Marketing Strategy",
-          "Brand Management",
+          "Digital Marketing Strategy",
           "SEO & SEM",
-          "Content Marketing",
-          "Google Ads",
-          "Meta Ads Manager",
+          "Google Ads & Meta Ads",
+          "Social Media Marketing",
+          "Event Planning & Coordination",
+          "Content Creation & Copywriting",
+          "Graphic Design (Canva, AI Tools)",
           "Email Marketing",
-          "CRM Automation",
-          "Analytics & Reporting",
-          "Copywriting",
-          "Campaign Optimization",
-          "Social Media Strategy",
-          "Team Leadership",
-          "Client Relations"
+          "CRM Management",
+          "Budget & Financial Planning",
+          "Website Management",
+          "E-commerce Optimization",
+          "Google Analytics",
+          "WordPress & Shopify"
         ]
       },
       "experience": {
         "title": "Experience",
         "items": [
           {
-            "title": "Marketing Manager",
-            "duration": "3 years",
-            "description": "Led digital campaigns for multiple clients, managing strategy, creative, and analytics. Improved conversion rates and ROI through performance-driven initiatives across paid and organic channels."
+            "title": "Marketing, Partnerships & Systems Admin",
+            "company": "Love Howick",
+            "duration": "Feb 2025 – Present",
+            "description": "Sole marketing lead managing digital content across platforms, event coordination (Golf Day, Business Breakfasts, Mandela Day), website maintenance, and donor relations. Designing marketing materials and managing data systems."
           },
           {
-            "title": "Digital Marketing Specialist",
-            "duration": "2 years",
-            "description": "Planned and executed SEO, SEM, and social media strategies. Developed data-led reporting frameworks to optimize campaigns and enhance client transparency."
+            "title": "Marketing Coordinator",
+            "company": "Enertec Batteries Head Office",
+            "duration": "2024 – Jan 2025",
+            "description": "Managed annual marketing budget, digital campaigns, social media, product launches, and traditional marketing. Achieved 25% SEO improvement and 22% social media growth."
+          },
+          {
+            "title": "Marketing Admin Coordinator",
+            "company": "Enertec Batteries Head Office",
+            "duration": "2023 – 2024",
+            "description": "Coordinated events and trade shows, managed CRM data, oversaw e-commerce operations achieving 329% online sales increase. Handled financial tracking and supplier relationships."
+          },
+          {
+            "title": "Vehicle Stock Controller & Invoicing",
+            "company": "Alpine Volkswagen Hillcrest",
+            "duration": "2018 – 2023",
+            "description": "Managed vehicle inventory, conducted audits, created financial reports, and managed Instagram content for sales. 5 years of experience in organized operations."
           }
         ]
       },
       "currentFocus": {
         "title": "Current Focus",
-        "intro": "Collaborating with digital marketing agencies and brands to drive measurable growth through:",
+        "intro": "I'm focused on leveraging my diverse marketing expertise to:",
         "list": [
-          "Performance marketing and paid media strategy",
-          "Full-funnel content development",
-          "Campaign analytics and reporting",
-          "Brand storytelling and creative leadership"
+          "Drive digital growth through integrated multi-channel campaigns",
+          "Create authentic brand storytelling grounded in consumer insights",
+          "Optimize marketing performance through data-driven decision making",
+          "Master graphic design to enhance creative marketing capabilities",
+          "Lead event strategy that creates measurable business impact"
         ]
       }
     }
@@ -124,8 +142,8 @@
   },
   "contact": {
     "pageTitle": "Get in Touch",
-    "pageTagline": "Whether you need help with campaign strategy, brand positioning, or digital optimization — I'd love to connect.",
-    "badge": "Open for collaborations",
+    "pageTagline": "Whether you need help with marketing strategy, event coordination, or creative campaigns — I'd love to connect and explore opportunities.",
+    "badge": "Open for collaborations & opportunities",
     "methods": [
       {
         "icon": "email",
@@ -133,7 +151,14 @@
         "value": "fritzreinette@gmail.com",
         "description": "For project inquiries and collaboration requests",
         "link": "mailto:fritzreinette@gmail.com",
-        "primary": true
+        "primary": false
+      },
+      {
+        "icon": "phone",
+        "title": "WhatsApp / Phone",
+        "value": "068 282 8463",
+        "description": "Quick conversations and urgent requests",
+        "link": "https://wa.me/27682828463"
       },
       {
         "icon": "linkedin",
@@ -141,13 +166,6 @@
         "value": "Reinette Fritz",
         "description": "Professional networking and opportunities",
         "link": "https://www.linkedin.com/in/reinette-fritz-9a9727253/"
-      },
-      {
-        "icon": "phone",
-        "title": "WhatsApp",
-        "value": "+1 (555) 123-4567",
-        "description": "Quick conversations and urgent requests",
-        "link": "https://wa.me/15551234567"
       },
       {
         "icon": "github",
@@ -162,15 +180,14 @@
         "type": "location",
         "icon": "location",
         "title": "Location",
-        "value": "San Francisco, CA",
-        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.019262302141!2d-122.41941848468213!3d37.77492997975905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085809c6c8f4459%3A0xb10ed6d9b5050fa5!2sSan%20Francisco%2C%20CA!5e0!3m2!1sen!2sus!4v1635000000000!5m2!1sen!2sus"
+        "value": "Hilton, KwaZulu-Natal, South Africa"
       },
       {
         "type": "calendar",
         "icon": "calendar",
         "title": "Schedule a Meeting",
-        "value": "Available for 30-60 minute discussions",
-        "description": "Book a call to discuss your marketing strategy, campaign planning, or collaboration opportunities.",
+        "value": "Available for consultations",
+        "description": "Book a call to discuss marketing strategy, campaign planning, event coordination, or collaboration opportunities.",
         "calendarUrl": "https://calendly.com/fritzreinette"
       },
       {
@@ -179,12 +196,12 @@
         "title": "Open To",
         "value": "Current collaboration interests:",
         "items": [
-          "Marketing strategy consulting",
-          "Campaign development & execution",
-          "Brand positioning projects",
-          "Content marketing partnerships",
-          "Speaking engagements",
-          "Freelance & contract work"
+          "Marketing strategy & campaign development",
+          "Digital marketing consulting",
+          "Event planning & coordination",
+          "Social media management",
+          "Freelance & contract work",
+          "Full-time marketing positions"
         ]
       }
     ]
@@ -227,10 +244,10 @@
   },
   "homepage": {
     "aboutPreview": {
-      "intro": "I help agencies and brands connect strategy with creativity — building campaigns that convert attention into measurable growth.",
+      "intro": "I'm a marketing coordinator passionate about creating authentic brand experiences through strategy, creativity, and data-driven insights.",
       "paragraphs": [
-        "With a background in digital strategy and brand management, I specialize in creating campaigns that blend data, storytelling, and design. My goal is to make marketing both meaningful and measurable.",
-        "From SEO and social media to paid media and analytics, I approach every project with curiosity and collaboration. I love finding new ways to grow audiences and strengthen brand trust."
+        "With a Psychology background and hands-on experience across digital, traditional, and event marketing, I understand consumer behavior and how to create campaigns that resonate. From SEO optimization and social media management to event coordination and financial planning, I bring a versatile skillset to every project.",
+        "Currently leading digital marketing at Love Howick while mastering graphic design. My proven track record includes 329% e-commerce growth, 25% SEO improvement, and consistent high performance scores. I'm detail-oriented, strategic, and excited about solving real marketing challenges."
       ],
       "ctaText": "Learn More About Me →",
       "ctaLink": "about.html"
@@ -239,31 +256,33 @@
       "title": "Core Skills",
       "categories": [
         {
-          "name": "Digital Strategy",
+          "name": "Digital Marketing",
           "tags": [
-            "Marketing Planning",
-            "Campaign Development",
-            "Performance Optimization",
-            "Analytics & Reporting"
+            "SEO & SEM",
+            "Google Ads & Meta Ads",
+            "Social Media Marketing",
+            "Email Campaigns",
+            "Google Analytics"
+          ]
+        },
+        {
+          "name": "Strategy & Operations",
+          "tags": [
+            "Campaign Planning",
+            "Event Coordination",
+            "Budget Management",
+            "CRM Management",
+            "Performance Optimization"
           ]
         },
         {
           "name": "Creative & Content",
           "tags": [
             "Copywriting",
-            "Social Media Campaigns",
-            "Brand Storytelling",
-            "Email Marketing"
-          ]
-        },
-        {
-          "name": "Platforms & Tools",
-          "tags": [
-            "Google Ads",
-            "Meta Ads Manager",
-            "HubSpot",
-            "Canva",
-            "Google Analytics"
+            "Content Creation",
+            "Graphic Design",
+            "Canva & Design Tools",
+            "Website Management"
           ]
         }
       ]
@@ -308,10 +327,10 @@
     ]
   },
   "site": {
-    "title": "Reinette Fritz - Portfolio",
-    "description": "Marketing Manager Portfolio",
-    "url": "https://netta102.github.io/reinettefritz.github.io/",
-    "repository": "https://github.com/netta102/reinettefritz.github.io"
+    "title": "Reinette Fritz - Marketing Portfolio",
+    "description": "Marketing Coordinator Portfolio - Digital Marketing, Event Strategy & Creative Design",
+    "url": "https://tian102.github.io/reinettefritz.github.io/",
+    "repository": "https://github.com/tian102/reinettefritz.github.io"
   },
   "features": {
     "blog": true,
