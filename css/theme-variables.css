@@ -3,8 +3,8 @@
 
 :root {
     /* Theme Colors */
-    --theme-primary: #1e293b;
-    --theme-accent: #f97316;
+    --theme-primary: #2c3e50;
+    --theme-accent: #3498db;
     
     /* Typography */
     --theme-font-family: Inter, sans-serif;

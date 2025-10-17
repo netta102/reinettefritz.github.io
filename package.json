@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/modern-portfolio-template.git"
+    "url": "https://github.com/netta102/reinettefritz.github.io.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/modern-portfolio-template/issues"
+    "url": "https://github.com/netta102/reinettefritz.github.io/issues"
   },
-  "homepage": "https://yourusername.github.io/modern-portfolio-template/",
+  "homepage": "https://reinettefritz.github.io",
   "keywords": [
     "portfolio",
     "portfolio-template",
@@ -45,9 +45,9 @@
     "easy-setup"
   ],
   "author": {
-    "name": "Modern Portfolio Template",
-    "email": "contact@example.com",
-    "url": "https://github.com/yourusername/modern-portfolio-template"
+    "name": "Reinette Fritz",
+    "email": "fritzreinette@gmail.com",
+    "url": "https://github.com/netta102/reinettefritz.github.io"
   },
   "contributors": [],
   "license": "MIT",

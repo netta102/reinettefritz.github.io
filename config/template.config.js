@@ -3,29 +3,29 @@
 
 module.exports = {
     "site": {
-        "title": "Jordan Taylor - Marketing Manager Portfolio",
-        "description": "Portfolio of a Marketing Manager specializing in digital marketing strategy, brand development, and performance campaigns.",
-        "url": "https://jordantaylorportfolio.com",
-        "author": "Jordan Taylor",
-        "repository": ""
+        "title": "Reinette Fritz - Portfolio",
+        "description": "Marketing Manager Portfolio",
+        "url": "https://netta102.github.io/reinettefritz.github.io/",
+        "author": "Reinette Fritz",
+        "repository": "https://github.com/netta102/reinettefritz.github.io"
     },
     "personal": {
-        "name": "Jordan Taylor",
+        "name": "Reinette Fritz",
         "title": "Marketing Manager",
-        "email": "jordan.taylor@example.com",
-        "location": "Remote / Open to relocation",
+        "email": "fritzreinette@gmail.com",
+        "location": "Hilton, South Africa",
         "timezone": "UTC"
     },
     "social": {
-        "github": "jordantaylor",
-        "linkedin": "https://linkedin.com/in/jordantaylor-marketing",
+        "github": "netta102",
+        "linkedin": "https://www.linkedin.com/in/reinette-fritz-9a9727253/",
         "twitter": "",
         "medium": "",
         "devto": ""
     },
     "theme": {
-        "primaryColor": "#1e293b",
-        "accentColor": "#f97316",
+        "primaryColor": "#2c3e50",
+        "accentColor": "#3498db",
         "fontFamily": "Inter, sans-serif",
         "codeFontFamily": "JetBrains Mono, monospace"
     },
@@ -44,6 +44,6 @@ module.exports = {
     },
     "resume": {
         "enabled": true,
-        "filename": "Jordan-Taylor-Resume.pdf"
+        "filename": "Reinette-Fritz-CV-2025.pdf"
     }
 };

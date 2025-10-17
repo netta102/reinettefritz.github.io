@@ -1,18 +1,18 @@
 {
   "personal": {
-    "name": "Jordan Taylor",
+    "name": "Reinette Fritz",
     "title": "Marketing Manager",
     "tagline": "Driving digital growth through data, creativity, and strategy",
-    "email": "jordan.taylor@example.com",
+    "email": "fritzreinette@gmail.com",
     "social": {
-      "github": "https://github.com/jordantaylor",
-      "linkedin": "https://linkedin.com/in/jordantaylor-marketing",
-      "email": "mailto:jordan.taylor@example.com"
+      "github": "https://github.com/netta102",
+      "linkedin": "https://www.linkedin.com/in/reinette-fritz-9a9727253/",
+      "email": "mailto:fritzreinette@gmail.com"
     }
   },
   "hero": {
     "greeting": "Hi, I'm",
-    "name": "Jordan Taylor",
+    "name": "Reinette Fritz",
     "typedRoles": [
       "Marketing Manager",
       "Digital Strategist",
@@ -37,7 +37,7 @@
       {
         "title": "Who I Am",
         "content": [
-          "I'm Jordan Taylor, a digital marketing professional passionate about connecting people with brands through meaningful campaigns. Over the past seven years, I've led cross-functional teams, managed client accounts, and executed performance marketing strategies that drive engagement and ROI.",
+          "I'm Reinette Fritz, a digital marketing professional passionate about connecting people with brands through meaningful campaigns. Over the past seven years, I've led cross-functional teams, managed client accounts, and executed performance marketing strategies that drive engagement and ROI.",
           "I enjoy translating data into stories that resonate, helping clients understand their audiences, and creating campaigns that turn attention into action."
         ]
       },
@@ -130,17 +130,17 @@
       {
         "icon": "email",
         "title": "Email",
-        "value": "jordan.taylor@example.com",
+        "value": "fritzreinette@gmail.com",
         "description": "For project inquiries and collaboration requests",
-        "link": "mailto:jordan.taylor@example.com",
+        "link": "mailto:fritzreinette@gmail.com",
         "primary": true
       },
       {
         "icon": "linkedin",
         "title": "LinkedIn",
-        "value": "Jordan Taylor",
+        "value": "Reinette Fritz",
         "description": "Professional networking and opportunities",
-        "link": "https://www.linkedin.com/in/jordantaylor-marketing/"
+        "link": "https://www.linkedin.com/in/reinette-fritz-9a9727253/"
       },
       {
         "icon": "phone",
@@ -152,9 +152,9 @@
       {
         "icon": "github",
         "title": "GitHub",
-        "value": "@jordantaylor",
+        "value": "@netta102",
         "description": "Code samples and technical projects",
-        "link": "https://github.com/jordantaylor"
+        "link": "https://github.com/netta102"
       }
     ],
     "infoCards": [
@@ -171,7 +171,7 @@
         "title": "Schedule a Meeting",
         "value": "Available for 30-60 minute discussions",
         "description": "Book a call to discuss your marketing strategy, campaign planning, or collaboration opportunities.",
-        "calendarUrl": "https://calendly.com/jordan-taylor-marketing"
+        "calendarUrl": "https://calendly.com/fritzreinette"
       },
       {
         "type": "openTo",
@@ -190,7 +190,7 @@
     ]
   },
   "navigation": {
-    "brandName": "Jordan Taylor",
+    "brandName": "Reinette Fritz",
     "links": [
       {
         "text": "Home",
@@ -217,11 +217,11 @@
     "documents": [
       {
         "name": "Resume / CV",
-        "file": "assets/docs/Jordan-Taylor-CV.pdf"
+        "file": "assets/docs/Reinette-Fritz-CV-2025.pdf"
       },
       {
         "name": "Cover Letter",
-        "file": "assets/docs/Jordan-Taylor-Cover-Letter.pdf"
+        "file": "assets/docs/Reinette-Fritz-Cover-Letter.pdf"
       }
     ]
   },
@@ -294,24 +294,24 @@
     }
   },
   "footer": {
-    "copyright": "© 2025 Jordan Taylor. All rights reserved.",
+    "copyright": "© 2025 Reinette Fritz. All rights reserved.",
     "builtWith": "Designed for digital marketing professionals and creative agencies.",
     "links": [
       {
         "text": "LinkedIn",
-        "url": "https://www.linkedin.com/in/jordantaylor-marketing/"
+        "url": "https://www.linkedin.com/in/reinette-fritz-9a9727253/"
       },
       {
         "text": "Email",
-        "url": "mailto:jordan.taylor@example.com"
+        "url": "mailto:fritzreinette@gmail.com"
       }
     ]
   },
   "site": {
-    "title": "Jordan Taylor - Marketing Manager Portfolio",
-    "description": "Portfolio of a Marketing Manager specializing in digital marketing strategy, brand development, and performance campaigns.",
-    "url": "https://jordantaylorportfolio.com",
-    "repository": ""
+    "title": "Reinette Fritz - Portfolio",
+    "description": "Marketing Manager Portfolio",
+    "url": "https://netta102.github.io/reinettefritz.github.io/",
+    "repository": "https://github.com/netta102/reinettefritz.github.io"
   },
   "features": {
     "blog": true,
@@ -321,13 +321,13 @@
     "darkModeToggle": false
   },
   "theme": {
-    "primaryColor": "#1e293b",
-    "accentColor": "#f97316",
+    "primaryColor": "#2c3e50",
+    "accentColor": "#3498db",
     "fontFamily": "Inter, sans-serif",
     "codeFontFamily": "JetBrains Mono, monospace"
   },
   "resume": {
     "enabled": true,
-    "filename": "Jordan-Taylor-Resume.pdf"
+    "filename": "Reinette-Fritz-CV-2025.pdf"
   }
 }
