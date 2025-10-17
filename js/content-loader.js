@@ -174,15 +174,40 @@
         const experience = getContent('about.sidebar.experience.items');
         if (!experience) return;
         
-        const html = experience.map(exp => `
+        const html = experience.map((exp, index) => `
             <div class="experience-item">
-                <h4>${exp.title}</h4>
-                <p class="experience-duration">${exp.duration}</p>
-                <p class="experience-desc">${exp.description}</p>
+                <button class="experience-toggle" data-index="${index}">
+                    <div class="experience-toggle-content">
+                        <div class="experience-toggle-header">
+                            <h4>${exp.title}</h4>
+                            <span class="toggle-icon">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <polyline points="6 9 12 15 18 9"></polyline>
+                                </svg>
+                            </span>
+                        </div>
+                        <div class="experience-toggle-meta">
+                            ${exp.company ? `<span class="experience-company">${exp.company}</span>` : ''}
+                            <span class="experience-duration">${exp.duration}</span>
+                        </div>
+                    </div>
+                </button>
+                <div class="experience-content">
+                    <p class="experience-desc">${exp.description}</p>
+                </div>
             </div>
         `).join('');
         
         container.innerHTML = html;
+        
+        // Add event listeners for collapsible functionality
+        const toggleButtons = container.querySelectorAll('.experience-toggle');
+        toggleButtons.forEach(button => {
+            button.addEventListener('click', function() {
+                const item = this.closest('.experience-item');
+                item.classList.toggle('expanded');
+            });
+        });
     }
 
     /**
