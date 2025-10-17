@@ -2,7 +2,7 @@
 title: "How to Measure Marketing Campaign ROI (Beyond Basic Metrics)"
 date: "2024-11-28"
 tags: ["analytics", "roi", "performance marketing"]
-author: "Jordan Taylor"
+author: "Reinette Fritz"
 featured: false
 image: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=500&fit=crop
 ---
@@ -129,4 +129,4 @@ To improve your ROI measurement this month:
 
 ---
 
-*Need help setting up advanced marketing measurement? I'd love to discuss your attribution challenges — [get in touch](mailto:jordan.taylor@example.com).*
+*Need help setting up advanced marketing measurement? I'd love to discuss your attribution challenges — [get in touch](mailto:fritzreinette@gmail.com).*

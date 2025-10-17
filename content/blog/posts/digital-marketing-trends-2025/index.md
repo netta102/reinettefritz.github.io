@@ -2,7 +2,7 @@
 title: "Digital Marketing Trends to Watch in 2025"
 date: "2024-12-15"
 tags: ["digital marketing", "trends", "strategy"]
-author: "Jordan Taylor"
+author: "Reinette Fritz"
 featured: true
 image: https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&h=500&fit=crop
 ---
@@ -78,4 +78,4 @@ To stay ahead in 2025:
 
 ---
 
-*What trends are you most excited about? Let me know your thoughts on [LinkedIn](https://linkedin.com/in/jordantaylor-marketing).*
+*What trends are you most excited about? Let me know your thoughts on [LinkedIn](https://www.linkedin.com/in/reinette-fritz-9a9727253/).*
