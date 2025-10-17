@@ -1,0 +1,45 @@
+/* Auto-generated theme from template.config.js */
+/* Do not edit manually - run 'npm run build' to regenerate */
+
+:root {
+    /* Theme Colors */
+    --theme-primary: #1e293b;
+    --theme-accent: #f97316;
+    
+    /* Typography */
+    --theme-font-family: Inter, sans-serif;
+    --theme-code-font-family: JetBrains Mono, monospace;
+}
+
+/* Apply theme colors */
+.gradient-text {
+    background: linear-gradient(135deg, var(--theme-primary), var(--theme-accent));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.btn-primary {
+    background: var(--theme-accent);
+}
+
+.btn-primary:hover {
+    background: var(--theme-primary);
+}
+
+a {
+    color: var(--theme-accent);
+}
+
+.section-number {
+    color: var(--theme-accent);
+}
+
+/* Apply font families */
+body {
+    font-family: var(--theme-font-family);
+}
+
+code, pre, .code-font {
+    font-family: var(--theme-code-font-family);
+}

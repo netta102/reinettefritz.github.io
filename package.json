@@ -1,0 +1,67 @@
+{
+  "name": "modern-portfolio-template",
+  "version": "1.0.0",
+  "description": "🎨 Beautiful, customizable portfolio template with markdown content, interactive setup wizard, and one-click deployment. Perfect for developers, designers, and freelancers.",
+  "main": "index.html",
+  "scripts": {
+    "setup": "node scripts/setup-wizard.js",
+    "setup:config": "node scripts/setup-wizard.js --config-only",
+    "clean": "node scripts/clean-example-content.js",
+    "validate": "node scripts/validate-config.js",
+    "build": "npm run validate && npm run build:content && npm run build:theme",
+    "build:content": "node scripts/build-content.js",
+    "build:theme": "node scripts/apply-theme.js",
+    "dev": "echo Install live-server globally: npm install -g live-server && echo Then run: live-server --port=8080",
+    "deploy": "npm run build && git add . && git commit -m 'Deploy updates' && git push",
+    "help": "node scripts/help.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/modern-portfolio-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/modern-portfolio-template/issues"
+  },
+  "homepage": "https://yourusername.github.io/modern-portfolio-template/",
+  "keywords": [
+    "portfolio",
+    "portfolio-template",
+    "portfolio-website",
+    "developer-portfolio",
+    "markdown",
+    "markdown-blog",
+    "static-site",
+    "static-site-generator",
+    "personal-website",
+    "github-pages",
+    "template",
+    "customizable",
+    "responsive",
+    "modern-design",
+    "no-framework",
+    "vanilla-js",
+    "setup-wizard",
+    "beginner-friendly",
+    "easy-setup"
+  ],
+  "author": {
+    "name": "Modern Portfolio Template",
+    "email": "contact@example.com",
+    "url": "https://github.com/yourusername/modern-portfolio-template"
+  },
+  "contributors": [],
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "dependencies": {
+    "marked": "^11.1.1"
+  },
+  "devDependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

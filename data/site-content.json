@@ -1,0 +1,333 @@
+{
+  "personal": {
+    "name": "Jordan Taylor",
+    "title": "Marketing Manager",
+    "tagline": "Driving digital growth through data, creativity, and strategy",
+    "email": "jordan.taylor@example.com",
+    "social": {
+      "github": "https://github.com/jordantaylor",
+      "linkedin": "https://linkedin.com/in/jordantaylor-marketing",
+      "email": "mailto:jordan.taylor@example.com"
+    }
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Jordan Taylor",
+    "typedRoles": [
+      "Marketing Manager",
+      "Digital Strategist",
+      "Brand Builder",
+      "Content Marketer"
+    ],
+    "description": [
+      "Marketing Manager with 7+ years of experience leading multi-channel campaigns, brand strategy, and client growth initiatives across digital platforms.",
+      "I've helped brands and agencies create measurable impact through data-driven storytelling, paid media optimization, and integrated marketing strategies that align creativity with business goals."
+    ],
+    "cta": {
+      "primary": "About Me",
+      "primaryLink": "#about",
+      "secondary": "Get In Touch",
+      "secondaryLink": "contact.html"
+    }
+  },
+  "about": {
+    "pageTitle": "About Me",
+    "pageTagline": "Marketing Manager helping agencies and brands grow through smart strategy and creative execution",
+    "sections": [
+      {
+        "title": "Who I Am",
+        "content": [
+          "I'm Jordan Taylor, a digital marketing professional passionate about connecting people with brands through meaningful campaigns. Over the past seven years, I've led cross-functional teams, managed client accounts, and executed performance marketing strategies that drive engagement and ROI.",
+          "I enjoy translating data into stories that resonate, helping clients understand their audiences, and creating campaigns that turn attention into action."
+        ]
+      },
+      {
+        "title": "What I Do",
+        "intro": "I design and execute digital marketing strategies with a focus on:",
+        "list": [
+          "Multi-channel campaign planning and management",
+          "Brand positioning and creative direction",
+          "SEO, PPC, and social media marketing",
+          "Email automation and CRM workflows",
+          "Analytics, reporting, and performance optimization",
+          "Team leadership and client relationship management"
+        ]
+      },
+      {
+        "title": "My Approach",
+        "content": [
+          "I see marketing as the balance between creativity and analytics. Every campaign should tell a story while being guided by clear objectives and measurable outcomes.",
+          "I focus on collaboration, testing, and refinement — aligning strategy, content, and performance data to continuously improve results for clients and brands."
+        ]
+      }
+    ],
+    "sidebar": {
+      "skills": {
+        "title": "Skills & Tools",
+        "tags": [
+          "Marketing Strategy",
+          "Brand Management",
+          "SEO & SEM",
+          "Content Marketing",
+          "Google Ads",
+          "Meta Ads Manager",
+          "Email Marketing",
+          "CRM Automation",
+          "Analytics & Reporting",
+          "Copywriting",
+          "Campaign Optimization",
+          "Social Media Strategy",
+          "Team Leadership",
+          "Client Relations"
+        ]
+      },
+      "experience": {
+        "title": "Experience",
+        "items": [
+          {
+            "title": "Marketing Manager",
+            "duration": "3 years",
+            "description": "Led digital campaigns for multiple clients, managing strategy, creative, and analytics. Improved conversion rates and ROI through performance-driven initiatives across paid and organic channels."
+          },
+          {
+            "title": "Digital Marketing Specialist",
+            "duration": "2 years",
+            "description": "Planned and executed SEO, SEM, and social media strategies. Developed data-led reporting frameworks to optimize campaigns and enhance client transparency."
+          }
+        ]
+      },
+      "currentFocus": {
+        "title": "Current Focus",
+        "intro": "Collaborating with digital marketing agencies and brands to drive measurable growth through:",
+        "list": [
+          "Performance marketing and paid media strategy",
+          "Full-funnel content development",
+          "Campaign analytics and reporting",
+          "Brand storytelling and creative leadership"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "pageTitle": "Projects",
+    "pageTagline": "Selected campaigns and projects demonstrating strategy, creativity, and results.",
+    "sectionTitle": "Featured Work",
+    "sectionNumber": "02.",
+    "viewAllText": "View All Projects →"
+  },
+  "blog": {
+    "pageTitle": "Blog",
+    "pageTagline": "Thoughts on marketing, creativity, and digital growth.",
+    "sectionTitle": "Latest from My Blog",
+    "sectionNumber": "03.",
+    "viewAllText": "View All Posts →"
+  },
+  "contact": {
+    "pageTitle": "Get in Touch",
+    "pageTagline": "Whether you need help with campaign strategy, brand positioning, or digital optimization — I'd love to connect.",
+    "badge": "Open for collaborations",
+    "methods": [
+      {
+        "icon": "email",
+        "title": "Email",
+        "value": "jordan.taylor@example.com",
+        "description": "For project inquiries and collaboration requests",
+        "link": "mailto:jordan.taylor@example.com",
+        "primary": true
+      },
+      {
+        "icon": "linkedin",
+        "title": "LinkedIn",
+        "value": "Jordan Taylor",
+        "description": "Professional networking and opportunities",
+        "link": "https://www.linkedin.com/in/jordantaylor-marketing/"
+      },
+      {
+        "icon": "phone",
+        "title": "WhatsApp",
+        "value": "+1 (555) 123-4567",
+        "description": "Quick conversations and urgent requests",
+        "link": "https://wa.me/15551234567"
+      },
+      {
+        "icon": "github",
+        "title": "GitHub",
+        "value": "@jordantaylor",
+        "description": "Code samples and technical projects",
+        "link": "https://github.com/jordantaylor"
+      }
+    ],
+    "infoCards": [
+      {
+        "type": "location",
+        "icon": "location",
+        "title": "Location",
+        "value": "San Francisco, CA",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.019262302141!2d-122.41941848468213!3d37.77492997975905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085809c6c8f4459%3A0xb10ed6d9b5050fa5!2sSan%20Francisco%2C%20CA!5e0!3m2!1sen!2sus!4v1635000000000!5m2!1sen!2sus"
+      },
+      {
+        "type": "calendar",
+        "icon": "calendar",
+        "title": "Schedule a Meeting",
+        "value": "Available for 30-60 minute discussions",
+        "description": "Book a call to discuss your marketing strategy, campaign planning, or collaboration opportunities.",
+        "calendarUrl": "https://calendly.com/jordan-taylor-marketing"
+      },
+      {
+        "type": "openTo",
+        "icon": "briefcase",
+        "title": "Open To",
+        "value": "Current collaboration interests:",
+        "items": [
+          "Marketing strategy consulting",
+          "Campaign development & execution",
+          "Brand positioning projects",
+          "Content marketing partnerships",
+          "Speaking engagements",
+          "Freelance & contract work"
+        ]
+      }
+    ]
+  },
+  "navigation": {
+    "brandName": "Jordan Taylor",
+    "links": [
+      {
+        "text": "Home",
+        "url": "index.html",
+        "active": true
+      },
+      {
+        "text": "About",
+        "url": "about.html"
+      },
+      {
+        "text": "Projects",
+        "url": "projects.html"
+      },
+      {
+        "text": "Blog",
+        "url": "blog.html"
+      },
+      {
+        "text": "Contact",
+        "url": "contact.html"
+      }
+    ],
+    "documents": [
+      {
+        "name": "Resume / CV",
+        "file": "assets/docs/Jordan-Taylor-CV.pdf"
+      },
+      {
+        "name": "Cover Letter",
+        "file": "assets/docs/Jordan-Taylor-Cover-Letter.pdf"
+      }
+    ]
+  },
+  "homepage": {
+    "aboutPreview": {
+      "intro": "I help agencies and brands connect strategy with creativity — building campaigns that convert attention into measurable growth.",
+      "paragraphs": [
+        "With a background in digital strategy and brand management, I specialize in creating campaigns that blend data, storytelling, and design. My goal is to make marketing both meaningful and measurable.",
+        "From SEO and social media to paid media and analytics, I approach every project with curiosity and collaboration. I love finding new ways to grow audiences and strengthen brand trust."
+      ],
+      "ctaText": "Learn More About Me →",
+      "ctaLink": "about.html"
+    },
+    "skills": {
+      "title": "Core Skills",
+      "categories": [
+        {
+          "name": "Digital Strategy",
+          "tags": [
+            "Marketing Planning",
+            "Campaign Development",
+            "Performance Optimization",
+            "Analytics & Reporting"
+          ]
+        },
+        {
+          "name": "Creative & Content",
+          "tags": [
+            "Copywriting",
+            "Social Media Campaigns",
+            "Brand Storytelling",
+            "Email Marketing"
+          ]
+        },
+        {
+          "name": "Platforms & Tools",
+          "tags": [
+            "Google Ads",
+            "Meta Ads Manager",
+            "HubSpot",
+            "Canva",
+            "Google Analytics"
+          ]
+        }
+      ]
+    },
+    "sections": {
+      "about": {
+        "number": "01.",
+        "title": "About Me"
+      },
+      "projects": {
+        "number": "02.",
+        "title": "Featured Work",
+        "cta": "View All Case Studies →",
+        "ctaLink": "projects.html"
+      },
+      "blog": {
+        "number": "03.",
+        "title": "Latest Insights",
+        "cta": "View All Posts →",
+        "ctaLink": "blog.html"
+      },
+      "contact": {
+        "number": "04.",
+        "title": "Get In Touch",
+        "cta": "Contact Me",
+        "ctaLink": "contact.html"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Jordan Taylor. All rights reserved.",
+    "builtWith": "Designed for digital marketing professionals and creative agencies.",
+    "links": [
+      {
+        "text": "LinkedIn",
+        "url": "https://www.linkedin.com/in/jordantaylor-marketing/"
+      },
+      {
+        "text": "Email",
+        "url": "mailto:jordan.taylor@example.com"
+      }
+    ]
+  },
+  "site": {
+    "title": "Jordan Taylor - Marketing Manager Portfolio",
+    "description": "Portfolio of a Marketing Manager specializing in digital marketing strategy, brand development, and performance campaigns.",
+    "url": "https://jordantaylorportfolio.com",
+    "repository": ""
+  },
+  "features": {
+    "blog": true,
+    "projects": true,
+    "contactForm": true,
+    "sectionNavigation": true,
+    "darkModeToggle": false
+  },
+  "theme": {
+    "primaryColor": "#1e293b",
+    "accentColor": "#f97316",
+    "fontFamily": "Inter, sans-serif",
+    "codeFontFamily": "JetBrains Mono, monospace"
+  },
+  "resume": {
+    "enabled": true,
+    "filename": "Jordan-Taylor-Resume.pdf"
+  }
+}

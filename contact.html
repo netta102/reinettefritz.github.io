@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - John Doe</title>
+    <link rel="icon" type="image/png" href="assets/favicon.png">
+    <link rel="shortcut icon" type="image/png" href="assets/favicon.png">
+    <link rel="stylesheet" href="css/style.css?v=20251009-51">
+    <link rel="stylesheet" href="css/theme-variables.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body class="content-loading contact-page">
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-brand">
+                <a href="index.html" class="brand-link">
+                    <span class="brand-name"></span>
+                </a>
+            </div>
+            <ul class="nav-menu">
+                <!-- Navigation links will be loaded dynamically -->
+            </ul>
+            <div class="nav-toggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Contact Hero -->
+    <section class="contact-hero">
+        <div class="container">
+            <div class="contact-hero-content">
+                <!-- Actual Content -->
+                <div class="actual-content">
+                    <div class="contact-badge">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="12" cy="12" r="10"/>
+                            <path d="M8 14s1.5 2 4 2 4-2 4-2"/>
+                            <line x1="9" y1="9" x2="9.01" y2="9"/>
+                            <line x1="15" y1="9" x2="15.01" y2="9"/>
+                        </svg>
+                        <span id="contact-badge-text"></span>
+                    </div>
+                    <h1 id="contact-page-title"></h1>
+                    <p class="contact-hero-text" id="contact-page-tagline"></p>
+                </div>
+                
+                <!-- Skeleton Placeholder -->
+                <div class="skeleton-placeholder">
+                    <div class="skeleton skeleton-badge"></div>
+                    <div class="skeleton skeleton-heading-xl"></div>
+                    <div class="skeleton skeleton-text"></div>
+                    <div class="skeleton skeleton-text"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Content -->
+    <section class="contact-section">
+        <div class="container">
+            <!-- Actual Content -->
+            <div class="actual-content">
+                <div class="contact-layout">
+                    <!-- Single Combined Container -->
+                    <div class="contact-unified-container">
+                        <!-- How to Reach Me -->
+                        <h2 class="section-subtitle">How to Reach Me</h2>
+                        <div class="contact-methods-grid" id="contact-methods-container">
+                            <!-- Contact methods will be loaded dynamically -->
+                        </div>
+
+                        <!-- Additional Info -->
+                        <h2 class="section-subtitle">Additional Information</h2>
+                        <div class="contact-info-grid" id="contact-info-cards">
+                            <!-- Info cards will be loaded dynamically -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Skeleton Placeholder -->
+            <div class="skeleton-placeholder">
+                <div class="contact-layout">
+                    <!-- Intro Skeleton -->
+                    <div class="contact-intro-section">
+                        <div class="skeleton skeleton-text"></div>
+                        <div class="skeleton skeleton-text"></div>
+                    </div>
+
+                    <!-- Combined Container Skeleton -->
+                    <div class="contact-unified-container">
+                        <div class="skeleton skeleton-heading" style="width: 200px; margin-bottom: var(--spacing-md);"></div>
+                        <div class="contact-methods-grid">
+                            <div class="skeleton skeleton-card" style="height: 140px;"></div>
+                            <div class="skeleton skeleton-card" style="height: 140px;"></div>
+                            <div class="skeleton skeleton-card" style="height: 140px;"></div>
+                            <div class="skeleton skeleton-card" style="height: 140px;"></div>
+                        </div>
+                        
+                        <div class="skeleton skeleton-heading" style="width: 250px; margin-top: var(--spacing-xl); margin-bottom: var(--spacing-md);"></div>
+                        <div class="contact-info-grid">
+                            <div class="skeleton skeleton-card" style="height: 280px;"></div>
+                            <div class="skeleton skeleton-card" style="height: 280px;"></div>
+                            <div class="skeleton skeleton-card" style="height: 280px;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container" id="footer-container">
+            <!-- Footer will be loaded dynamically -->
+        </div>
+    </footer>
+
+    <script src="js/content-loader.js?v=20251008-28"></script>
+    <script>
+        // Load and populate contact page content
+        document.addEventListener('DOMContentLoaded', async function() {
+            await ContentLoader.load();
+            
+            // Render navigation
+            ContentLoader.renderNavigation('contact.html');
+            
+            // Populate page header
+            ContentLoader.populate('contact-badge-text', 'contact.badge');
+            ContentLoader.populate('contact-page-title', 'contact.pageTitle');
+            ContentLoader.populate('contact-page-tagline', 'contact.pageTagline');
+            
+            // Render contact methods and info cards
+            ContentLoader.renderContactMethods('contact-methods-container');
+            ContentLoader.renderContactInfoCards('contact-info-cards');
+            
+            // Render footer
+            ContentLoader.renderFooter('footer-container');
+            
+            // Show content
+            ContentLoader.showContent();
+        });
+    </script>
+    <!-- Version: 20251008-39 -->
+    <script src="js/main.js?v=20251008-28"></script>
+</body>
+</html>

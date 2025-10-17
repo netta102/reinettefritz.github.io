@@ -1,0 +1,32 @@
+name: 🎨 Modern Portfolio Template
+description: Beautiful, customizable portfolio website with markdown content management, interactive setup wizard, and one-click deployment to GitHub Pages. Perfect for developers, designers, and freelancers.
+
+titlePrefix: "[Portfolio]"
+
+labels:
+  - portfolio
+  - template
+  - github-pages
+
+files:
+  - .gitignore
+  - LICENSE
+  - README.md
+  - package.json
+  - package-lock.json
+  - index.html
+  - about.html
+  - blog.html
+  - projects.html
+  - contact.html
+  - dev.html
+  - config/template.config.js
+  - content/blog/template/
+  - content/projects/template/
+  - docs/
+  - scripts/
+  - css/
+  - js/
+  - assets/README.md
+  - data/site-content.json
+  - data/dev-docs.json
